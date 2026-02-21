@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+form{
+  max-width: 400px;
+}
+.pass{
+  position: relative;
+}
+.hide{
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    cursor: pointer;
+}
